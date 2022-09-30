@@ -111,6 +111,12 @@ input {
     border-radius: 3px;
 }
 
+.logo-facebook {
+    width: 18px;
+    margin-right: 5px;
+    height: 18px;
+}
+
 .facebook {
     text-align: center;
     margin-top: 20px;
@@ -119,6 +125,8 @@ input {
     color: #075183;
     font-weight: bold;
     font-size: 14px;
+    justify-content: center;
+    display: flex;
 }
 
 .esqueceu {
