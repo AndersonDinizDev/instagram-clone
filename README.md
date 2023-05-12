@@ -1,5 +1,5 @@
 <h1>Página Clone do Instagram</h1>
-Durante o curso Programação do Zero da <a href="https://rodolfomori.com.br/devclub/">Dev Club</a>, tivemos como desafio desenvolver uma página semelhante ao do Instagram.
+Instagram clone page, made during the full-stack developer course.
 
 <h2>Tecnologias Utilizadas:</h2>
 <ul>
